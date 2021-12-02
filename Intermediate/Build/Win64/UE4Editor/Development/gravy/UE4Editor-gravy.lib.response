@@ -1,0 +1,21 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-gravy.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\demo2\Documents\Unreal Projects\gravy\Intermediate\Build\Win64\gravyEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\demo2\Documents\Unreal Projects\gravy\Intermediate\Build\Win64\UE4Editor\Development\gravy\gravy.cpp.obj"
+"C:\Users\demo2\Documents\Unreal Projects\gravy\Intermediate\Build\Win64\UE4Editor\Development\gravy\gravyCharacter.cpp.obj"
+"C:\Users\demo2\Documents\Unreal Projects\gravy\Intermediate\Build\Win64\UE4Editor\Development\gravy\gravyGameMode.cpp.obj"
+"C:\Users\demo2\Documents\Unreal Projects\gravy\Intermediate\Build\Win64\UE4Editor\Development\gravy\gravyHUD.cpp.obj"
+"C:\Users\demo2\Documents\Unreal Projects\gravy\Intermediate\Build\Win64\UE4Editor\Development\gravy\gravyProjectile.cpp.obj"
+"C:\Users\demo2\Documents\Unreal Projects\gravy\Intermediate\Build\Win64\UE4Editor\Development\gravy\gravy.init.gen.cpp.obj"
+"C:\Users\demo2\Documents\Unreal Projects\gravy\Intermediate\Build\Win64\UE4Editor\Development\gravy\gravyCharacter.gen.cpp.obj"
+"C:\Users\demo2\Documents\Unreal Projects\gravy\Intermediate\Build\Win64\UE4Editor\Development\gravy\gravyGameMode.gen.cpp.obj"
+"C:\Users\demo2\Documents\Unreal Projects\gravy\Intermediate\Build\Win64\UE4Editor\Development\gravy\gravyHUD.gen.cpp.obj"
+"C:\Users\demo2\Documents\Unreal Projects\gravy\Intermediate\Build\Win64\UE4Editor\Development\gravy\gravyProjectile.gen.cpp.obj"
+"C:\Users\demo2\Documents\Unreal Projects\gravy\Intermediate\Build\Win64\UE4Editor\Development\gravy\Default.rc2.res"
+/OUT:"C:\Users\demo2\Documents\Unreal Projects\gravy\Intermediate\Build\Win64\UE4Editor\Development\gravy\UE4Editor-gravy.lib"

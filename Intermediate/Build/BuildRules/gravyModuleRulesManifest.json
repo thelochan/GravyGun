@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\demo2\\Documents\\Unreal Projects\\gravy\\Source\\gravy\\gravy.Build.cs",
+		"C:\\Users\\demo2\\Documents\\Unreal Projects\\gravy\\Source\\gravy.Target.cs",
+		"C:\\Users\\demo2\\Documents\\Unreal Projects\\gravy\\Source\\gravyEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.1"
+}

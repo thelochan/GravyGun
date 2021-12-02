@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "gravy",
+			"Path": "C:\\Users\\demo2\\Documents\\Unreal Projects\\gravy\\Source\\gravy.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "gravyEditor",
+			"Path": "C:\\Users\\demo2\\Documents\\Unreal Projects\\gravy\\Source\\gravyEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
