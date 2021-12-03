@@ -103,7 +103,7 @@ void AgravyCharacter::OnFire()
 
 	const FCollisionQueryParams QueryParams("gravyTrace", false, this);
 	const float TraceRange = 1000.f;
-	const FVector StartTrace = FirstPersonCameraComponent->GetForwardVector();
+	const FVector StartTrace = FirstPersonCameraComponent->GetComponentLocation();
 	const FVector EndTrace = (FirstPersonCameraComponent->GetForwardVector() * TraceRange) + StartTrace;
 	FHitResult Hit;
 	
