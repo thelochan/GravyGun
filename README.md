@@ -6,6 +6,11 @@ A Gravity Gun (Like the one from the Half Life series) + 3D Mini Map (Top-Down V
 
 Line trace format with attach and detach from *Component used.
 
+#3D Top Down Mini Map (Vision Based Map)
+
+# Toggles:
+Vision
+
 
 # PortalsUE
 A Portal system using Unreal Engine
