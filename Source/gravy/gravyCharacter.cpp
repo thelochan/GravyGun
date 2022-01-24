@@ -162,6 +162,8 @@ void AgravyCharacter::EndFire()
 void AgravyCharacter::SetGrabbedObject(UPrimitiveComponent* ObjectToGrab)
 {
 	GrabbedObject = ObjectToGrab;
+	
+	if(GrabbedObject)
 	{
 		GrabbedObject->SetSimulatePhysics(false);
 		GrabbedObject->AttachToComponent(GrabbedObjectLocation, FAttachmentTransformRules::SnapToTargetNotIncludingScale);
